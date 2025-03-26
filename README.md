@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h1 align="center">Hola 👋, soy Gabriel</h1>
 <h3 align="center">Apasionado por la tecnología y el desarrollo de soluciones inteligentes. Busco prácticas en IA para poner a prueba mis conocimientos en aprendizaje automático y diseño de algoritmos.</h3>
 
 <h3 align="left">Connect with me:</h3>
